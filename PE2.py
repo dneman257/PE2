@@ -8,3 +8,6 @@ def main():
 
 if __name__ == "__main__":
     print(main())
+
+
+# This program calculates the sum of even Fibonacci numbers not exceeding four million.
